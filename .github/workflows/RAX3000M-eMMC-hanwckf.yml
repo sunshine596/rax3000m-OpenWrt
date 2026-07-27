@@ -18,7 +18,7 @@ on:
       LAN_IP:
         description: '设置 LAN IP 地址'
         required: true
-        default: '192.168.6.1'
+        default: '192.168.10.1'
       WIFI_DRIVER:
         description: '选择 WiFi 驱动版本'
         required: true
